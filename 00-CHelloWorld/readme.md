@@ -1,6 +1,6 @@
 # TP 0 Hello World!
 
-#### Compilador
+### Compilador
 - gcc (Rev3, Built by MSYS2 project) 13.2.0
 - El estandar utilizado es C2x, y está pasado como argumento en el archivo [task.json](https://github.com/liofranco/SSL/blob/main/.vscode/tasks.json)
 
